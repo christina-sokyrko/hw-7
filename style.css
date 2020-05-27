@@ -1,0 +1,292 @@
+html {
+font-family: 'Baloo Bhai 2', 'Roboto';
+}
+body {
+width: 1440px;
+background-color: white;
+}
+div {
+
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+.menu {
+  width: 20%;
+
+
+}
+.menu-inner {
+  background-color: #000000;
+  border-radius: 30px;
+  width: 132px;
+  height: 852px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.f-letter-pic {
+  width:50px;
+  margin: 50px;
+}
+.home-pic {
+  width: 35px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.hat-pic {
+  width: 35px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.person-pic {
+  width: 35px;
+  margin-left: 50px;
+  margin-top:50px;
+}
+.message-pic {
+  width: 35px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.settings-pic {
+  width: 35px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.exit-pic {
+  width: 35px;
+  margin-left: 50px;
+  margin-top: 200px;
+}
+.main {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  }
+.hello-josh {
+  height: 160px;
+  width: 620px;
+  background-color: #F5F5F7;
+  border: solid transparent;
+  border-radius: 14px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.hello-josh-2 {
+  font-size: 36px;
+  font-family: 'Baloo Bhai 2';
+
+
+}
+
+.its-good {
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin-top: -25px;
+}
+.hello-josh-pic {
+  margin-top: -28px;
+
+}
+.spanish-b2-main {
+  width: 620px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.spanish-b2 {
+  height: 80px;
+  width: 500px;
+  background-color: #F5F5F7;
+  border: solid transparent;
+  border-radius: 14px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+
+}
+.spanish-pic {
+  margin: 16px;
+}
+
+.eclipse {
+  margin-top: 16px;
+}
+.spanish-b2-arrows {
+  margin-top: 40px;
+}
+.courses {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.twenty-four {
+  font-size: 24px;
+  color: black;
+  font-family: 'Baloo Bhai 2';
+  margin: 10px;
+  }
+
+li {
+  display: inline;
+  font-size: 16px;
+  font-family: 'Baloo Bhai 2';
+  margin-right: 60px;
+  margin-left: -30px;
+}
+.gray-text {
+  color: gray;
+}
+.courses-inner {
+  height: 80px;
+  width: 620px;
+  background-color: #F5F5F7;
+  border: solid transparent;
+  border-radius: 14px;
+  margin: 8px;
+  display: flex;
+  justify-content: space-around;
+}
+.course-pic {
+  height: 64px;
+  width: 64px;
+  border-radius: 12px;
+  background-color: white;
+  margin-top: 8px;
+}
+
+.course-img {
+  margin-top: 16px;
+  margin-left: 16px;
+}
+
+.fire {
+  margin-top: 20px;
+}
+.button {
+  margin-top: 20px;
+}
+.thirteen {
+  font-size: 13px;
+  font-family: 'Roboto';
+  line-height: 15px;
+}
+.thirteen-second {
+  font-size: 13px;
+  font-family: 'Roboto';
+  line-height: 15px;
+  margin-top: -16px;
+}
+.hours {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.clock {
+  height: 16px;
+  margin: 10px;
+}
+.fire {
+  display: flex;
+  justify-content: space-around;
+}
+.fire-pic {
+  height: 16px;
+  margin: 10px;
+}
+.view-course {
+  background-color: black;
+  border-radius: 8px;
+  height: 40px;
+  width: 120px;
+  color: white;
+}
+.right {
+  width: 35%;
+}
+.search {
+  display: flex;
+  justify-content: space-around;
+}
+.search-1 {
+  height: 40px;
+  width: 300px;
+  background-color: #F5F5F7;
+  border: solid transparent;
+  border-radius: 8px;
+  margin: 13px;
+}
+.notification-pic {
+  height: 40px;
+  margin-top: 10px;
+}
+.photo-pic {
+  height: 50px;
+  margin-top: 8px;
+}
+.vector-pic {
+  height: 5px;
+  margin-top: 30px;
+  margin-left: -20px;
+}
+.completed-in-progress {
+  display: flex;
+  flex-direction: row;
+}
+.courses-2 {
+  height: 96px;
+  width: 208px;
+  background-color: #F5F5F7;
+  border: solid transparent;
+  border-radius: 14px;
+  margin: 13px;
+  display: flex;
+  flex-direction: row;
+}
+.courses-number {
+  margin-top: -50px;
+  margin-left: 20px;
+}
+.courses-status {
+  margin-top: 40px;
+}
+.sixty-four {
+  font-size: 64px;
+  font-family: 'Baloo Bhai 2';
+}
+.scedule-pic {
+  margin: 25px;
+}
+.learn-more-inner {
+  height: 193px;
+  width: 440px;
+  background-color: #F5F5F7;
+  border: solid transparent;
+  border-radius: 14px;
+  margin: 25px;
+  display: flex;
+  justify-content: space-around;
+}
+.sixteen-second {
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin-left: 10px;
+  margin-top: -10px;
+}
+.go-premium {
+  background-color: black;
+  border-radius: 8px;
+  height: 40px;
+  width: 120px;
+  color: white;
+  margin: 10px;
+}
+.book-pic {
+  margin: 10px;
+}
